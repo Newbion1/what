@@ -1,0 +1,32 @@
+{
+	"storyName": "Iscream!!!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "bnnuy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"iscream",
+		"bflol",
+		""
+	],
+	"songs": [
+		[
+			"Bnnuy-bars",
+			"iscreamhappy",
+			[
+				253,
+				83,
+				86
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Weekbnnuy",
+	"hiddenUntilUnlocked": false
+}

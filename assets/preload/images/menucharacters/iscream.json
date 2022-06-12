@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Iscream",
+	"idle_anim": "Iscream",
+	"position": [
+		480,
+		460
+	],
+	"scale": 1.2,
+	"flipX": false,
+	"image": "Menu_Iscream"
+}

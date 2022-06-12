@@ -1,0 +1,556 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "space",
+		"player1": "thecoolbf",
+		"player2": "iscreamhappy",
+		"player3": null,
+		"healthdrain": null,
+		"events": [
+			[
+				39000,
+				[
+					[
+						"Change Character",
+						"1",
+						"iscream"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				54000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"0.5"
+					],
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				54375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				54750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				55125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				55500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				55875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				56250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				56625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				57375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				57750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				58125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				58500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				58875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				59250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				59625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				60375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				60750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				61125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				61500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				61875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				62250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				62625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				63375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				63750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				64125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				64500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				64875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				65250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				65625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.2"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					],
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"0.5"
+					]
+				]
+			],
+			[
+				72375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				72750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				73125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				73500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				73875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				74250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				74625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				75375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				75750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				76125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				76500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				76875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				77250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				77625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.05"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"characterTrails": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"healthdrainKill": null,
+		"cameraMoveOnNotes": true,
+		"song": "Bnnuy-bars",
+		"songInstVolume": null,
+		"disableAntiMash": null,
+		"disableDebugButtons": null
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sody",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"compass",
+			"iscream",
+			[
+				253,
+				83,
+				86
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "nightmare",
+	"hiddenUntilUnlocked": false
+}

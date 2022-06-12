@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				350,
+				111
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fwenchfwy",
+	"position": [
+		100,
+		-30
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		83,
+		86
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}
